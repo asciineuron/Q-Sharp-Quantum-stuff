@@ -17,12 +17,18 @@ using Microsoft.Quantum.Simulation.Core;
 [assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"SampleQuantumRandomNumberGenerator\"},\"Attributes\":[],\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":10,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":45}},\"Documentation\":[]}")]
 [assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"SampleRandomNumberInRange\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":17,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":36}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[{\"Case\":\"QsTupleItem\",\"Fields\":[{\"VariableName\":{\"Case\":\"ValidName\",\"Fields\":[\"max\"]},\"Type\":{\"Case\":\"Int\"},\"InferredInformation\":{\"IsMutable\":false,\"HasLocalQuantumDependency\":false},\"Position\":{\"Case\":\"Null\"},\"Range\":{\"Item1\":{\"Line\":1,\"Column\":37},\"Item2\":{\"Line\":1,\"Column\":40}}}]}]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"Int\"},\"ReturnType\":{\"Case\":\"Int\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
 [assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"SampleRandomNumberInRange\"},\"Attributes\":[],\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":17,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":36}},\"Documentation\":[]}")]
-[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"GetGHX\"},\"Attributes\":[{\"TypeId\":{\"Case\":\"Value\",\"Fields\":[{\"Namespace\":\"Microsoft.Quantum.Core\",\"Name\":\"EntryPoint\",\"Range\":{\"Case\":\"Value\",\"Fields\":[{\"Item1\":{\"Line\":1,\"Column\":2},\"Item2\":{\"Line\":1,\"Column\":12}}]}}]},\"Argument\":{\"Item1\":{\"Case\":\"UnitValue\"},\"Item2\":[],\"Item3\":{\"Case\":\"UnitType\"},\"Item4\":{\"IsMutable\":false,\"HasLocalQuantumDependency\":false},\"Item5\":{\"Case\":\"Value\",\"Fields\":[{\"Item1\":{\"Line\":1,\"Column\":12},\"Item2\":{\"Line\":1,\"Column\":14}}]}},\"Offset\":{\"Item1\":28,\"Item2\":4},\"Comments\":{\"OpeningComments\":[],\"ClosingComments\":[]}}],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":29,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":17}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"UnitType\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
+[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"GetGHX\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":29,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":17}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"UnitType\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
 [assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"GetGHX\"},\"Attributes\":[],\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":29,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":17}},\"Documentation\":[]}")]
-[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"SampleRandomNumber\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":49,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":29}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"Int\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
-[assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"SampleRandomNumber\"},\"Attributes\":[],\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":49,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":29}},\"Documentation\":[]}")]
-[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"HelloQ\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":56,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":17}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"UnitType\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
-[assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"HelloQ\"},\"Attributes\":[],\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":56,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":17}},\"Documentation\":[]}")]
+[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"Deutsch_Uf\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":48,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":21}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[{\"Case\":\"QsTupleItem\",\"Fields\":[{\"VariableName\":{\"Case\":\"ValidName\",\"Fields\":[\"bits\"]},\"Type\":{\"Case\":\"ArrayType\",\"Fields\":[{\"Case\":\"Qubit\"}]},\"InferredInformation\":{\"IsMutable\":false,\"HasLocalQuantumDependency\":false},\"Position\":{\"Case\":\"Null\"},\"Range\":{\"Item1\":{\"Line\":1,\"Column\":22},\"Item2\":{\"Line\":1,\"Column\":26}}}]}]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"ArrayType\",\"Fields\":[{\"Case\":\"Qubit\"}]},\"ReturnType\":{\"Case\":\"UnitType\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
+[assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"Deutsch_Uf\"},\"Attributes\":[],\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":48,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":21}},\"Documentation\":[]}")]
+[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"Deutsch\"},\"Attributes\":[{\"TypeId\":{\"Case\":\"Value\",\"Fields\":[{\"Namespace\":\"Microsoft.Quantum.Core\",\"Name\":\"EntryPoint\",\"Range\":{\"Case\":\"Value\",\"Fields\":[{\"Item1\":{\"Line\":1,\"Column\":2},\"Item2\":{\"Line\":1,\"Column\":12}}]}}]},\"Argument\":{\"Item1\":{\"Case\":\"UnitValue\"},\"Item2\":[],\"Item3\":{\"Case\":\"UnitType\"},\"Item4\":{\"IsMutable\":false,\"HasLocalQuantumDependency\":false},\"Item5\":{\"Case\":\"Value\",\"Fields\":[{\"Item1\":{\"Line\":1,\"Column\":12},\"Item2\":{\"Line\":1,\"Column\":14}}]}},\"Offset\":{\"Item1\":55,\"Item2\":4},\"Comments\":{\"OpeningComments\":[],\"ClosingComments\":[]}}],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":56,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":18}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"Result\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
+[assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"Deutsch\"},\"Attributes\":[],\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":56,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":18}},\"Documentation\":[]}")]
+[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"ProblemFourArbitraryRot\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":76,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":34}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"UnitType\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
+[assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"ProblemFourArbitraryRot\"},\"Attributes\":[],\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":76,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":34}},\"Documentation\":[]}")]
+[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"SampleRandomNumber\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":91,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":29}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"Int\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
+[assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"SampleRandomNumber\"},\"Attributes\":[],\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":91,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":29}},\"Documentation\":[]}")]
+[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"HelloQ\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":98,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":17}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"UnitType\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
+[assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Quantum.QSharpApplication1\",\"Name\":\"HelloQ\"},\"Attributes\":[],\"SourceFile\":\"C:\\\\Users\\\\Alex_\\\\Documents\\\\Computer Science\\\\QSharp\\\\repos\\\\QSharpApplication1\\\\QSharpApplication1\\\\Program.qs\",\"Position\":{\"Item1\":98,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":17}},\"Documentation\":[]}")]
 #line hidden
 namespace Quantum.QSharpApplication1
 {
@@ -178,7 +184,7 @@ namespace Quantum.QSharpApplication1
         }
     }
 
-    [SourceLocation("C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs", OperationFunctor.Body, 30, 50)]
+    [SourceLocation("C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs", OperationFunctor.Body, 30, 49)]
     public partial class GetGHX : Operation<QVoid, QVoid>, ICallable
     {
         public GetGHX(IOperationFactory m) : base(m)
@@ -187,7 +193,6 @@ namespace Quantum.QSharpApplication1
 
         String ICallable.Name => "GetGHX";
         String ICallable.FullName => "Quantum.QSharpApplication1.GetGHX";
-        public static EntryPointInfo<QVoid, QVoid> Info => new EntryPointInfo<QVoid, QVoid>(typeof(GetGHX));
         protected Allocate Allocate__
         {
             get;
@@ -304,7 +309,271 @@ namespace Quantum.QSharpApplication1
         }
     }
 
-    [SourceLocation("C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs", OperationFunctor.Body, 50, 57)]
+    [SourceLocation("C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs", OperationFunctor.Body, 49, 57)]
+    public partial class Deutsch_Uf : Operation<IQArray<Qubit>, QVoid>, ICallable
+    {
+        public Deutsch_Uf(IOperationFactory m) : base(m)
+        {
+        }
+
+        String ICallable.Name => "Deutsch_Uf";
+        String ICallable.FullName => "Quantum.QSharpApplication1.Deutsch_Uf";
+        protected IUnitary<Qubit> Microsoft__Quantum__Intrinsic__X
+        {
+            get;
+            set;
+        }
+
+        public override Func<IQArray<Qubit>, QVoid> __Body__ => (__in__) =>
+        {
+            var bits = __in__;
+#line 52 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+            Microsoft__Quantum__Intrinsic__X.Apply(bits[0L]);
+#line hidden
+            return QVoid.Instance;
+        }
+
+        ;
+        public override void __Init__()
+        {
+            this.Microsoft__Quantum__Intrinsic__X = this.__Factory__.Get<IUnitary<Qubit>>(typeof(global::Microsoft.Quantum.Intrinsic.X));
+        }
+
+        public override IApplyData __DataIn__(IQArray<Qubit> data) => data;
+        public override IApplyData __DataOut__(QVoid data) => data;
+        public static System.Threading.Tasks.Task<QVoid> Run(IOperationFactory __m__, IQArray<Qubit> bits)
+        {
+            return __m__.Run<Deutsch_Uf, IQArray<Qubit>, QVoid>(bits);
+        }
+    }
+
+    [SourceLocation("C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs", OperationFunctor.Body, 57, 77)]
+    public partial class Deutsch : Operation<QVoid, Result>, ICallable
+    {
+        public Deutsch(IOperationFactory m) : base(m)
+        {
+        }
+
+        String ICallable.Name => "Deutsch";
+        String ICallable.FullName => "Quantum.QSharpApplication1.Deutsch";
+        public static EntryPointInfo<QVoid, Result> Info => new EntryPointInfo<QVoid, Result>(typeof(Deutsch));
+        protected Allocate Allocate__
+        {
+            get;
+            set;
+        }
+
+        protected Release Release__
+        {
+            get;
+            set;
+        }
+
+        protected IUnitary<Qubit> Microsoft__Quantum__Intrinsic__X
+        {
+            get;
+            set;
+        }
+
+        protected IUnitary<Qubit> Microsoft__Quantum__Intrinsic__H
+        {
+            get;
+            set;
+        }
+
+        protected ICallable<IQArray<Qubit>, QVoid> Deutsch_Uf__
+        {
+            get;
+            set;
+        }
+
+        protected ICallable<Qubit, Result> Microsoft__Quantum__Measurement__MResetZ
+        {
+            get;
+            set;
+        }
+
+        protected ICallable<Qubit, QVoid> Reset__
+        {
+            get;
+            set;
+        }
+
+        public override Func<QVoid, Result> __Body__ => (__in__) =>
+        {
+#line hidden
+            {
+#line 58 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                var bits = Allocate__.Apply(2L);
+#line hidden
+                bool __arg1__ = true;
+                try
+                {
+#line 61 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                    Microsoft__Quantum__Intrinsic__X.Apply(bits[0L]);
+#line 62 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                    Microsoft__Quantum__Intrinsic__X.Apply(bits[1L]);
+#line 63 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                    Microsoft__Quantum__Intrinsic__H.Apply(bits[0L]);
+#line 64 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                    Microsoft__Quantum__Intrinsic__H.Apply(bits[1L]);
+#line 66 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                    Deutsch_Uf__.Apply(bits);
+#line 67 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                    Microsoft__Quantum__Intrinsic__H.Apply(bits[1L]);
+#line 69 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                    var res = Microsoft__Quantum__Measurement__MResetZ.Apply(bits[1L]);
+#line 70 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                    Reset__.Apply(bits[0L]);
+#line 71 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                    return res;
+                }
+#line hidden
+                catch
+                {
+                    __arg1__ = false;
+                    throw;
+                }
+#line hidden
+                finally
+                {
+                    if (__arg1__)
+                    {
+#line hidden
+                        Release__.Apply(bits);
+                    }
+                }
+            }
+        }
+
+        ;
+        public override void __Init__()
+        {
+            this.Allocate__ = this.__Factory__.Get<Allocate>(typeof(global::Microsoft.Quantum.Intrinsic.Allocate));
+            this.Release__ = this.__Factory__.Get<Release>(typeof(global::Microsoft.Quantum.Intrinsic.Release));
+            this.Microsoft__Quantum__Intrinsic__X = this.__Factory__.Get<IUnitary<Qubit>>(typeof(global::Microsoft.Quantum.Intrinsic.X));
+            this.Microsoft__Quantum__Intrinsic__H = this.__Factory__.Get<IUnitary<Qubit>>(typeof(global::Microsoft.Quantum.Intrinsic.H));
+            this.Deutsch_Uf__ = this.__Factory__.Get<ICallable<IQArray<Qubit>, QVoid>>(typeof(Deutsch_Uf));
+            this.Microsoft__Quantum__Measurement__MResetZ = this.__Factory__.Get<ICallable<Qubit, Result>>(typeof(global::Microsoft.Quantum.Measurement.MResetZ));
+            this.Reset__ = this.__Factory__.Get<ICallable<Qubit, QVoid>>(typeof(global::Microsoft.Quantum.Intrinsic.Reset));
+        }
+
+        public override IApplyData __DataIn__(QVoid data) => data;
+        public override IApplyData __DataOut__(Result data) => new QTuple<Result>(data);
+        public static System.Threading.Tasks.Task<Result> Run(IOperationFactory __m__)
+        {
+            return __m__.Run<Deutsch, QVoid, Result>(QVoid.Instance);
+        }
+    }
+
+    [SourceLocation("C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs", OperationFunctor.Body, 77, 92)]
+    public partial class ProblemFourArbitraryRot : Operation<QVoid, QVoid>, ICallable
+    {
+        public ProblemFourArbitraryRot(IOperationFactory m) : base(m)
+        {
+        }
+
+        String ICallable.Name => "ProblemFourArbitraryRot";
+        String ICallable.FullName => "Quantum.QSharpApplication1.ProblemFourArbitraryRot";
+        protected Allocate Allocate__
+        {
+            get;
+            set;
+        }
+
+        protected Release Release__
+        {
+            get;
+            set;
+        }
+
+        protected IUnitary<Qubit> Microsoft__Quantum__Intrinsic__T
+        {
+            get;
+            set;
+        }
+
+        protected IUnitary<Qubit> Microsoft__Quantum__Intrinsic__H
+        {
+            get;
+            set;
+        }
+
+        protected ICallable Microsoft__Quantum__Diagnostics__DumpMachine
+        {
+            get;
+            set;
+        }
+
+        public override Func<QVoid, QVoid> __Body__ => (__in__) =>
+        {
+#line 80 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+            var accuracy = 20L;
+#line hidden
+            {
+#line 81 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                var bit = Allocate__.Apply();
+#line hidden
+                bool __arg1__ = true;
+                try
+                {
+#line 82 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                    foreach (var i in new QRange(1L, 2L, accuracy))
+#line hidden
+                    {
+#line 83 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                        Microsoft__Quantum__Intrinsic__T.Apply(bit);
+#line 84 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                        Microsoft__Quantum__Intrinsic__H.Apply(bit);
+#line 85 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                        Microsoft__Quantum__Intrinsic__T.Apply(bit);
+#line 86 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                        Microsoft__Quantum__Intrinsic__H.Apply(bit);
+                    }
+
+#line 88 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+                    Microsoft__Quantum__Diagnostics__DumpMachine.Apply(QVoid.Instance);
+                }
+#line hidden
+                catch
+                {
+                    __arg1__ = false;
+                    throw;
+                }
+#line hidden
+                finally
+                {
+                    if (__arg1__)
+                    {
+#line hidden
+                        Release__.Apply(bit);
+                    }
+                }
+            }
+
+#line hidden
+            return QVoid.Instance;
+        }
+
+        ;
+        public override void __Init__()
+        {
+            this.Allocate__ = this.__Factory__.Get<Allocate>(typeof(global::Microsoft.Quantum.Intrinsic.Allocate));
+            this.Release__ = this.__Factory__.Get<Release>(typeof(global::Microsoft.Quantum.Intrinsic.Release));
+            this.Microsoft__Quantum__Intrinsic__T = this.__Factory__.Get<IUnitary<Qubit>>(typeof(global::Microsoft.Quantum.Intrinsic.T));
+            this.Microsoft__Quantum__Intrinsic__H = this.__Factory__.Get<IUnitary<Qubit>>(typeof(global::Microsoft.Quantum.Intrinsic.H));
+            this.Microsoft__Quantum__Diagnostics__DumpMachine = this.__Factory__.Get<ICallable>(typeof(global::Microsoft.Quantum.Diagnostics.DumpMachine<>));
+        }
+
+        public override IApplyData __DataIn__(QVoid data) => data;
+        public override IApplyData __DataOut__(QVoid data) => data;
+        public static System.Threading.Tasks.Task<QVoid> Run(IOperationFactory __m__)
+        {
+            return __m__.Run<ProblemFourArbitraryRot, QVoid, QVoid>(QVoid.Instance);
+        }
+    }
+
+    [SourceLocation("C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs", OperationFunctor.Body, 92, 99)]
     public partial class SampleRandomNumber : Operation<QVoid, Int64>, ICallable
     {
         public SampleRandomNumber(IOperationFactory m) : base(m)
@@ -327,11 +596,11 @@ namespace Quantum.QSharpApplication1
 
         public override Func<QVoid, Int64> __Body__ => (__in__) =>
         {
-#line 51 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+#line 93 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
             var max = 50L;
-#line 52 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+#line 94 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
             Message__.Apply(String.Format("Sampling a random number between 0 and {0}: ", max));
-#line 53 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+#line 95 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
             return SampleRandomNumberInRange__.Apply(max);
         }
 
@@ -350,7 +619,7 @@ namespace Quantum.QSharpApplication1
         }
     }
 
-    [SourceLocation("C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs", OperationFunctor.Body, 57, -1)]
+    [SourceLocation("C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs", OperationFunctor.Body, 99, -1)]
     public partial class HelloQ : Operation<QVoid, QVoid>, ICallable
     {
         public HelloQ(IOperationFactory m) : base(m)
@@ -367,7 +636,7 @@ namespace Quantum.QSharpApplication1
 
         public override Func<QVoid, QVoid> __Body__ => (__in__) =>
         {
-#line 58 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
+#line 100 "C:\\Users\\Alex_\\Documents\\Computer Science\\QSharp\\repos\\QSharpApplication1\\QSharpApplication1\\Program.qs"
             Message__.Apply("Hello quantum world!");
 #line hidden
             return QVoid.Instance;
